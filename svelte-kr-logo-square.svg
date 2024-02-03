@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 768 768"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="svelte-kr-logo-square.svg"
+   width="768"
+   height="768"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   inkscape:export-filename="/Users/elpion/Downloads/svelte-kr-logo-square.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17">
+    <rect
+       x="63.594511"
+       y="562.56683"
+       width="561.0562"
+       height="106.78163"
+       id="rect5011" />
+    <rect
+       x="498.08869"
+       y="603.43506"
+       width="610.60206"
+       height="94.67897"
+       id="rect3605" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="768px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.50099698"
+     inkscape:cx="746.51148"
+     inkscape:cy="428.14629"
+     inkscape:window-width="1313"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13">
+    <sodipodi:guide
+       position="384,575"
+       orientation="-1,0"
+       id="guide304"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="541.36866,384"
+       orientation="0,1"
+       id="guide306"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <path
+     d="m 585.0941,119.99523 c -51.375,-73.624999 -153,-95.374999 -226.5,-48.624998 l -129,82.249998 c -35.25,22.125 -59.5,58.125 -66.875,99.125 -6.125,34.125 -0.75,69.375 15.375,100 -11,16.75 -18.625,35.625 -22.125,55.25 -7.375,41.75 2.25,84.75 27,119.25 51.5,73.625 153,95.375 226.5,48.625 l 129,-82.25 c 35.25,-22.125 59.5,-58.125 66.875,-99.125 6.125,-34.125 0.75,-69.375 -15.375,-100 11,-16.75 18.625,-35.5 22.125,-55.25 7.25,-41.75 -2.375,-84.75 -27,-119.25"
+     style="fill:#ff3e00;stroke-width:1.25"
+     id="path9" />
+  <path
+     d="m 345.9691,534.24523 c -41.625,10.75 -85.5,-5.5 -110,-40.75 -14.875,-20.75 -20.625,-46.625 -16.25,-71.75 0.75,-4.125 1.75,-8.125 3.125,-12 l 2.375,-7.375 6.625,4.875 c 15.25,11.25 32.375,19.75 50.5,25.25 l 4.75,1.5 -0.5,4.75 c -0.625,6.75 1.25,13.625 5.25,19.125 7.375,10.625 20.625,15.5 33.125,12.25 2.75,-0.75 5.5,-1.875 7.875,-3.5 l 129,-82.25 c 6.375,-4 10.75,-10.5 12.125,-18 1.375,-7.625 -0.375,-15.375 -4.875,-21.625 -7.375,-10.625 -20.625,-15.5 -33.125,-12.25 -2.75,0.75 -5.5,1.875 -7.875,3.5 l -49.125,31.375 c -8.125,5.125 -16.875,9 -26.25,11.5 -41.625,10.75 -85.5,-5.5 -110,-40.75 -14.875,-20.75 -20.625,-46.625 -16.25,-71.75 4.375,-24.625 19,-46.25 40.25,-59.625 l 129,-82.25 c 8.125,-5.125 16.875,-9 26.25,-11.5 41.625,-10.75 85.5,5.5 110,40.75 14.875,20.75 20.625,46.625 16.25,71.75 -0.75,4.125 -1.75,8.125 -3.125,12 l -2.375,7.375 -6.625,-4.875 c -15.25,-11.25 -32.375,-19.75 -50.5,-25.25 l -4.75,-1.5 0.5,-4.75 c 0.625,-6.75 -1.25,-13.625 -5.25,-19.125 -7.375,-10.625 -20.625,-15.5 -33.125,-12.25 -2.75,0.75 -5.5,1.875 -7.875,3.5 l -129,82.25 c -6.375,4 -10.75,10.5 -12.125,18 -1.375,7.625 0.375,15.375 4.875,21.625 7.375,10.625 20.625,15.5 33.125,12.25 2.75,-0.75 5.5,-1.875 7.875,-3.5 l 49.125,-31.375 c 8.125,-5.125 16.875,-9 26.25,-11.5 41.625,-10.75 85.5,5.5 110,40.75 14.875,20.75 20.625,46.625 16.25,71.75 -4.375,24.625 -19,46.25 -40.25,59.625 l -129,82.25 c -8.125,5.125 -17,9 -26.25,11.5"
+     style="fill:#ffffff;stroke-width:1.25"
+     id="path11" />
+  <text
+     xml:space="preserve"
+     id="text3603"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect3605)" />
+  <text
+     xml:space="preserve"
+     id="text5009"
+     style="font-style:normal;font-weight:normal;font-size:85.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:6px;white-space:pre;shape-inside:url(#rect5011);fill:#4a4a55;fill-opacity:1;stroke:none"
+     transform="matrix(1.25,0,0,1.25,-32.307997,-83.500362)"><tspan
+       x="63.59375"
+       y="640.41856"
+       id="tspan20689"><tspan
+         style="font-weight:500;font-family:Overpass;-inkscape-font-specification:'Overpass Medium'"
+         id="tspan20687">SVELTE ·  KR</tspan></tspan></text>
+</svg>
